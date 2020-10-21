@@ -7,6 +7,7 @@ int main()
 
     cout << "Enter an integer: ";
     cin >> number;
+    cout<<"Hello world";
 
     cout << "You entered " << number;    
     return 0;
