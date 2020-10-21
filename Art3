@@ -25,6 +25,6 @@ int main()
 
     average = sum / n;
     cout << "Average = " << average;
-
+    cout<<"Hello world@@@@@";
     return 0;
 }
